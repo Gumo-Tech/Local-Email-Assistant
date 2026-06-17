@@ -4,13 +4,15 @@ A local, AI‑powered email assistant for Windows. It reads, sorts and replies t
 using AI — **running on your own computer**. Your mail and passwords stay on your machine; they
 are only ever sent to the AI provider *you* choose (and with a local model, not even there).
 
-**Demo video:** _add link_ · **Website:** www.morving-tech.dk
+### ⬇️ [Download the latest version](https://github.com/Gumo-Tech/Local-Email-Assistant/releases/latest/download/LokalEmailAssistant.exe)
+
+**Demo video:** _add link_ · **All versions:** [Releases](https://github.com/Gumo-Tech/Local-Email-Assistant/releases) · **Website:** www.morving-tech.dk
 
 ---
 
 ## 1. Download & run
 
-1. Download **`LokalEmailAssistant.exe`** from this page (click the file, then **Download raw file**).
+1. Download **`LokalEmailAssistant.exe`** from the **[Releases page](https://github.com/Gumo-Tech/Local-Email-Assistant/releases/latest)** (or the direct download button above — it always gives the newest version).
 2. Double‑click it. A small console window starts the program, and your default browser opens
    the app automatically at **http://127.0.0.1:3001**.
    - If Windows SmartScreen warns (unsigned app): **More info → Run anyway**.
