@@ -59,14 +59,19 @@ Two options, switch any time with the **🧠 Model** picker:
 
 ## 3. Using the app
 
-The app has three tabs:
+The app has four tabs:
 
 - **✉️ Email** — your inbox. Click an email, press **✦ Generate draft**, watch the AI write a reply
   (live), edit it, then **Send reply**. You're always in control — nothing sends by itself here.
 - **💬 Chat** — the same mail shown as message threads, with the whole conversation as context.
 - **🔀 Flow** — a visual pipeline you build from nodes to automate things: **Inbox → AI Sorting →
-  AI Reply → AI Check → Approval → Send**. You decide whether it pauses for your approval or sends
-  automatically. Drag from a node's **right** port to another node's **left** port to connect them.
+  AI Reply → Approval → Send**. The AI sorts each email into a category and drafts a reply; those
+  drafts go to the **Approval** tab for you to review (or, if you choose, send automatically). Drag
+  from a node's **right** port to another node's **left** port to connect them.
+- **✅ Approval** — your review queue for AI‑drafted replies. Each item shows the conversation, the
+  proposed reply (editable) and **which category it was sorted into** — with a filter to focus on a
+  single category. Read it, tweak if needed, and **Send reply** — or **Discard**. Nothing is sent
+  until you approve it.
 
 **Sorting tip:** in **AI Sorting**, give each category a clear, specific description — that's what
 the AI uses to decide where each email belongs. Few, distinct categories beat many overlapping ones.
